@@ -1,57 +1,3 @@
-/* 
-  .sidebar ul li {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px;
-    font-size: 14px;
-  }
-  
-  .sidebar-project {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    align-items: center;
-  }
-  
-  .icon-group {
-    display: flex;
-    gap: 8px;
-  }
-  
-  .edit-icon {
-    color: #f0eeea;
-    cursor: pointer;
-  }
-  
-  .delete-icon {
-    color: #f4efef;
-    cursor: pointer;
-  }
-  
-  .popup {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
-  }
-   */
-  /* Workspace Container */
-/* Workspace Main Container */
-/* ==============================
-   🌟 Workspace Page Styling 🌟
-   ============================== */
-
-/* 🎨 Main Workspace Container */
-/* === GENERAL STYLES === */
-/* ==============================
-   🌟 Workspace Page Styling 🌟
-   ============================== */
-   /* === WORKSPACE CONTAINER === */
 .workspace {
   display: flex;
   height: 100vh;
@@ -59,7 +5,6 @@
   overflow: hidden;
 }
 
-/* === SIDEBAR === */
 .sidebar {
   width: 260px;
   background: #2c3e50;
